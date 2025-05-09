@@ -1,0 +1,15 @@
+
+>
+
+[D[D[A[A[[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C>
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[
+node_modules/
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+.env
+.DS_Store
+Thumbs.db
