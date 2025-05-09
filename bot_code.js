@@ -3,7 +3,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 
 // 🔑 Replace this with your real bot token from BotFather
-const token="7874926737:AAHrv0Xpq9rChLHxupCWXuOu4t7QZk9N7Vc";
+const token="";
 
 // 🤖 Create a bot instance and start polling for messages
 const Mybot = new TelegramBot(token,{polling : true});
